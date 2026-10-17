@@ -1,0 +1,2 @@
+class LibraryError(Exception):
+    pass
