@@ -1,0 +1,11 @@
+[
+  {
+    "book_id": 23,
+    "isbn": "1234567654",
+    "title": "math",
+    "author": "nar",
+    "year": 1234,
+    "copies": 2,
+    "available": 2
+  }
+]
